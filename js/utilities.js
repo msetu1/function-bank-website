@@ -1,0 +1,1 @@
+const myUtility = 'Insite utility file';
